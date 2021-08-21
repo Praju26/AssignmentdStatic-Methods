@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentdStatic Methods", "AssignmentdStatic Methods.csproj", "{09CCDC02-B6F1-4710-95CE-F495C8C6E426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CCDC02-B6F1-4710-95CE-F495C8C6E426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CCDC02-B6F1-4710-95CE-F495C8C6E426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CCDC02-B6F1-4710-95CE-F495C8C6E426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CCDC02-B6F1-4710-95CE-F495C8C6E426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81B1583E-5D9A-4A53-83B8-C298CE92C718}
+	EndGlobalSection
+EndGlobal
